@@ -25,6 +25,7 @@ import javax.swing.text.DefaultEditorKit;
 /**
  *
  * @author Paco G. <DAW 2016/2017 Ponferrada-Distancia>
+ * Tarea Tema 7 - Editor de Texto Simple.
  */
 public class Editor extends javax.swing.JFrame {
   String path_archivo="";
